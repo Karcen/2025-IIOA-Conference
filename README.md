@@ -17,6 +17,6 @@ I am sharing it here in the hope of exchanging ideas with fellow students and pr
 Khan, J., Li, Y., & Mahsud, Q. J. (2024).  
 *Linkages and structural changes in the Chinese financial sector, 1996–2018: A network and input–output approach.*  
 **Structural Change and Economic Dynamics, 70**, 33–44.  
-[https://doi.org/10.1016/j.strueco.2024.01.005](https://doi.org/10.1016/j.strueco.2023.12.017) *(请替换为实际 DOI 链接)*
+[https://doi.org/10.1016/j.strueco.2024.01.005](https://doi.org/10.1016/j.strueco.2023.12.017) 
 
 ---
